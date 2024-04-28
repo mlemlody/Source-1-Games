@@ -54,7 +54,7 @@ If it has been asked for, go ahead and put your 2 cents in for it in the existin
 
 If it has not been asked for, create a new issue with at least the following information:
 
- - The game your asking for the enhancement
+ - The game you're asking for the enhancement
  - A clear description of what exactly you want
  - Justification as to why this is something that is needed
  - Why we should do this feature rather than doing some other feature on the list
